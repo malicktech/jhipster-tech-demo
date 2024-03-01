@@ -1,0 +1,989 @@
+repo_name: malicktech/jhipster-tech-demo
+report_id: c3bf1861975f793131f496f30ee8ca61
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-01T22:46:05+00:00'
+requested_by: jhipster-bot
+provider: github
+branch: main
+detected_tools_count: 77
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/.devcontainer/Dockerfile
+  detection_source: ".devcontainer/Dockerfile"
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: vuex
+  description: Centralized State Management for Vue.js.
+  website_url: https://vuex.vuejs.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/6705/6128107.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Apache Maven
+  description: Apache build manager for Java projects.
+  website_url: http://maven.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/.devcontainer/Dockerfile
+  detection_source: ".devcontainer/Dockerfile"
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/.devcontainer/Dockerfile
+  detection_source: ".devcontainer/Dockerfile"
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/src/test/resources/junit-platform.properties
+  detection_source: src/test/resources/junit-platform.properties
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Logback
+  description: A logging framework for Java applications
+  website_url: https://logback.qos.ch/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/src/test/resources/logback.xml
+  detection_source: src/test/resources/logback.xml
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Prometheus
+  description: An open-source service monitoring system and time series database,
+    developed by SoundCloud
+  website_url: http://prometheus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/src/main/docker/prometheus/prometheus.yml
+  detection_source: src/main/docker/prometheus/prometheus.yml
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/src/main/resources/config/application.yml
+  detection_source: src/main/resources/config/application.yml
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: "@fortawesome/fontawesome-svg-core"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-svg-core
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16644/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: "@fortawesome/free-solid-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-solid-svg-icons
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16683/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: "@fortawesome/vue-fontawesome"
+  description: Official Vue component for Font Awesome 5
+  package_url: https://www.npmjs.com/@fortawesome/vue-fontawesome
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18329/default_fcb0000f89932f65c58527fdec74a1b27eb78a83.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: "@types/sinon"
+  description: TypeScript definitions for Sinon
+  package_url: https://www.npmjs.com/@types/sinon
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16151/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: "@vue/eslint-config-prettier"
+  description: Eslint-config-prettier for Vue CLI
+  package_url: https://www.npmjs.com/@vue/eslint-config-prettier
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16824/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: "@vue/eslint-config-typescript"
+  description: Eslint-config-typescript for vue-cli
+  package_url: https://www.npmjs.com/@vue/eslint-config-typescript
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18076/image.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: "@vue/test-utils"
+  description: Utilities for testing Vue components
+  package_url: https://www.npmjs.com/@vue/test-utils
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16231/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: axios-mock-adapter
+  description: Axios adapter that allows to easily mock requests
+  package_url: https://www.npmjs.com/axios-mock-adapter
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17391/default_e9c4b89784d4fe5d59f93b4a54dd8910ea23e5de.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: bootstrap-vue
+  description: BootstrapVue
+  package_url: https://www.npmjs.com/bootstrap-vue
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17817/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: browser-sync-webpack-plugin
+  description: BrowserSync and Webpack integration
+  package_url: https://www.npmjs.com/browser-sync-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18027/default_7826192e433c1035ad42082e7f65b825c34bb056.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: dayjs
+  description: 2KB immutable date time library alternative to Moment.js with the same
+    modern API
+  package_url: https://www.npmjs.com/dayjs
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: fork-ts-checker-webpack-plugin
+  description: Runs typescript type checker and linter on separate process
+  package_url: https://www.npmjs.com/fork-ts-checker-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16622/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: jest-environment-jsdom
+  description: Delightful JavaScript Testing
+  package_url: https://www.npmjs.com/jest-environment-jsdom
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: jest-junit
+  description: A jest reporter that generates junit xml files
+  package_url: https://www.npmjs.com/jest-junit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: jest-serializer-vue
+  description: A jest serializer for Vue snapshots
+  package_url: https://www.npmjs.com/jest-serializer-vue
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16883/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: numeral
+  description: Format and manipulate numbers
+  package_url: https://www.npmjs.com/numeral
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16703/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: postcss-import
+  description: PostCSS plugin to import CSS files
+  package_url: https://www.npmjs.com/postcss-import
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16086/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: postcss-loader
+  description: PostCSS loader for webpack
+  package_url: https://www.npmjs.com/postcss-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: postcss-url
+  description: PostCSS plugin to rebase or inline on url
+  package_url: https://www.npmjs.com/postcss-url
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16228/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: terser-webpack-plugin
+  description: Terser plugin for webpack
+  package_url: https://www.npmjs.com/terser-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16143/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: vue-class-component
+  description: ES201X/TypeScript class decorator for Vue components
+  package_url: https://www.npmjs.com/vue-class-component
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16641/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: vue-i18n
+  description: Internationalization plugin for Vue.js
+  package_url: https://www.npmjs.com/vue-i18n
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16963/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: vue-jest
+  description: Jest Vue transform
+  package_url: https://www.npmjs.com/vue-jest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16554/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: vue-loader
+  description: "&gt; webpack loader for Vue Single-File Components"
+  package_url: https://www.npmjs.com/vue-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15901/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: vue-property-decorator
+  description: Property decorators for Vue Component
+  package_url: https://www.npmjs.com/vue-property-decorator
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16727/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: vue-router
+  description: Official router for Vue.js 2
+  package_url: https://www.npmjs.com/vue-router
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: vue-template-compiler
+  description: Template compiler for Vue 2.0
+  package_url: https://www.npmjs.com/vue-template-compiler
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: wait-on
+  description: Wait-on is a cross platform command line utility and Node.js API which
+    will wait for files
+  package_url: https://www.npmjs.com/wait-on
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17821/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: webpack-bundle-analyzer
+  description: Webpack plugin and CLI utility that represents bundle content as convenient
+    interactive zoomable treemap
+  package_url: https://www.npmjs.com/webpack-bundle-analyzer
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: webpack-merge
+  description: Variant of merge that's useful for webpack configuration
+  package_url: https://www.npmjs.com/webpack-merge
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
+- name: workbox-webpack-plugin
+  description: A plugin for your Webpack build process
+  package_url: https://www.npmjs.com/workbox-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16470/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/malicktech/jhipster-tech-demo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: JHipster Bot
+  last_updated_on: 2022-08-10 17:03:46.000000000 Z
